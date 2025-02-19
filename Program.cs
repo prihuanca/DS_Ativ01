@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Hola señores y señoras, damas e caballeros.
+using System;
 using System.Collections.Specialized;
 
 namespace Aula01
